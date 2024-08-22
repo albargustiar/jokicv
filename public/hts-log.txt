@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 01 Feb 2024 23:55:29 at https://mauro-modern-fbt.blogspot.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mauro-modern-fbt.blogspot.com/ -O1 "D:\PROJECT\template-cv" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:58:00	Error: 	"Not Found" (404) at link https://mauro-modern-fbt.blogspot.com/<i class="fa fa-instagram"></i> (from https://mauro-modern-fbt.blogspot.com/)
+23:58:20	Error: 	"Not Found" (404) at link https://mauro-modern-fbt.blogspot.com/2017/03/<i class="fa fa-instagram"></i> (from https://mauro-modern-fbt.blogspot.com/2017/03/why-product-thinking-is-next-big-thing.html)
+23:58:22	Error: 	"Unknown error" (451) at link https://cdn.rtlcss.com/bootstrap/v4.5.3/css/bootstrap.min.css?ver=4.5.3 (from https://mauro-modern-fbt.blogspot.com/?hl=ar)
+23:59:07	Error: 	"Unknown error" (451) at link https://cdn.rtlcss.com/bootstrap/v4.5.3/js/bootstrap.bundle.min.js?ver=4.5.3 (from https://mauro-modern-fbt.blogspot.com/?hl=ar)
+23:59:08	Warning: 	Moved Permanently for mauro-modern-fbt.blogspot.com/robots.txt
+23:59:08	Warning: 	Redirected link is identical because of 'URL Hack' option: mauro-modern-fbt.blogspot.com/robots.txt and https://mauro-modern-fbt.blogspot.com/robots.txt
+23:59:08	Warning: 	Warning moved treated for mauro-modern-fbt.blogspot.com/robots.txt (real one is https://mauro-modern-fbt.blogspot.com/robots.txt)
+23:59:08	Warning: 	Moved Permanently for mauro-modern-fbt.blogspot.com/?hl
+23:59:08	Warning: 	Redirected link is identical because of 'URL Hack' option: mauro-modern-fbt.blogspot.com/?hl and https://mauro-modern-fbt.blogspot.com/?hl
+23:59:08	Warning: 	File has moved from mauro-modern-fbt.blogspot.com/?hl to https://mauro-modern-fbt.blogspot.com/?hl
+23:59:12	Error: 	"Not Found" (404) at link https://mauro-modern-fbt.blogspot.com/2023/02/<i class="fa fa-instagram"></i> (from https://mauro-modern-fbt.blogspot.com/2023/02/is-britains-likely-next-leader-great.html)
+23:59:17	Error: 	"Not Found" (404) at link https://mauro-modern-fbt.blogspot.com/2019/06/<i class="fa fa-instagram"></i> (from https://mauro-modern-fbt.blogspot.com/2019/06/google-hit-with-record-eu-fine-over.html)
+23:59:18	Error: 	"Not Found" (404) at link https://mauro-modern-fbt.blogspot.com/2018/09/<i class="fa fa-instagram"></i> (from https://mauro-modern-fbt.blogspot.com/2018/09/poeple-break-down-covid-19-home.html)
+23:59:18	Error: 	"Not Found" (404) at link https://mauro-modern-fbt.blogspot.com/2018/05/<i class="fa fa-instagram"></i> (from https://mauro-modern-fbt.blogspot.com/2018/05/apple-wants-same-apps-to-run-on-iphones.html)
+23:59:18	Error: 	"Not Found" (404) at link https://mauro-modern-fbt.blogspot.com/2017/04/<i class="fa fa-instagram"></i> (from https://mauro-modern-fbt.blogspot.com/2017/04/congressional-leaders-reach-budget-debt.html)
+23:59:45	Error: 	"Not Found" (404) at link https://mauro-modern-fbt.blogspot.com/2017/02/<i class="fa fa-instagram"></i> (from https://mauro-modern-fbt.blogspot.com/2017/02/winter-fashion-trends-only-looks-you.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 3 seconds : 209 links scanned, 196 files written (23922659 bytes overall) [8651109 bytes received at 28551 bytes/sec], 20998465 bytes transferred using HTTP compression in 181 files, ratio 21%
+(10 errors, 6 warnings, 0 messages)
